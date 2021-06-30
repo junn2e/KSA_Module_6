@@ -1,2 +1,2 @@
-# KSA_Module_6_CNN
+# KSA_Module_6
 > ## MNIST
